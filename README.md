@@ -33,4 +33,3 @@ Identify:
 
 ### Moving Average Trend Analysis
 
-![Moving Averages](images/2025_moving_avg_analysis.png)
